@@ -1,8 +1,5 @@
-Lost in Midnight
+Outfit Highlighter
 
-Lost technology,
-Lost knowledge,
-And people, who have lost their way trying to navigate life in this vast galaxy...
+Makes the selected outfit stand out more in the outfitter screen. Recommended for those who prefer to navigate the outfitter using the keyboard instead of the mouse.
 
-Get the latest version here:
-https://github.com/MidnightPlugins/Lost-in-Midnight/releases
+https://github.com/MidnightPlugins/Outfit-Highlighter
