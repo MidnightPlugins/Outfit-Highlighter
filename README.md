@@ -16,7 +16,6 @@ Description of available themes:
 - Arrows (color): Four arrows in the corner set to the chosen color
 - Cargo Pods: Frame made of Syndicate cargo pods
 - Classic Highlighter: The original Outfit Highlighter
-- Default: The default highlighter in case you want to reset
 - Endless Sky Frames: Frame resembling Endless Sky's menu frames
 - Fade to Black: A gray box that fades to black near the top
 - Fade to (color): A box of the chosen color that fades to black near the top
