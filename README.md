@@ -24,6 +24,5 @@ Description of available themes:
 - Mereti: Frame made of Mereti ship parts
 - Ringworld: Frame made of Ringworld parts
 - Sheragi: Frame made of Sheragi ship parts
-- Syndicate Systems: Purple
 - Vanilla Enhanced: Just a slightly bigger vanilla highlighter
 - Wanderer: Frame made of Wanderer ship parts
